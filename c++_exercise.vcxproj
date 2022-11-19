@@ -133,6 +133,10 @@
     <ClCompile Include="04.常量.cpp" />
     <ClCompile Include="05.整型.cpp" />
     <ClCompile Include="06.浮点数.cpp" />
+    <ClCompile Include="07字符型和字符串.cpp" />
+    <ClCompile Include="08.布尔类型.cpp" />
+    <ClCompile Include="09.键盘输入.cpp" />
+    <ClCompile Include="10.水仙花数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

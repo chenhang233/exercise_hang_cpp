@@ -1,1 +1,2 @@
 C:\Users\chenhang\Desktop\code\03.C\c++_exercise\x64\Debug\c++_exercise.exe
+C:\Users\chenhang\Desktop\code\03.C\exercise_hang_cpp\x64\Debug\c++_exercise.exe

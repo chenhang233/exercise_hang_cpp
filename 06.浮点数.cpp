@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main6() {
 	float a = 3.14f;
 	double b = 3.14;
 	cout << "a = " << a << endl;

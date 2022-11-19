@@ -33,5 +33,17 @@
     <ClCompile Include="06.浮点数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="07字符型和字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08.布尔类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09.键盘输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.水仙花数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
