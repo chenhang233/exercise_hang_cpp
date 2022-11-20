@@ -137,6 +137,12 @@
     <ClCompile Include="08.布尔类型.cpp" />
     <ClCompile Include="09.键盘输入.cpp" />
     <ClCompile Include="10.水仙花数.cpp" />
+    <ClCompile Include="11.数组.cpp" />
+    <ClCompile Include="12函数.cpp" />
+    <ClCompile Include="sum.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

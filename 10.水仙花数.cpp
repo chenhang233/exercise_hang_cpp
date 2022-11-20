@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main10() {
 	int start = 100;
 	int max = 1000;
 	do
