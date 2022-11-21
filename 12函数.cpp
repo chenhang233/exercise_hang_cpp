@@ -2,7 +2,7 @@
 using namespace std;
 
 #include "sum.h"
-int main() {
+int main12() {
 
 	sum(10, 20);
 	system("pause");
