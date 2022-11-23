@@ -140,6 +140,7 @@
     <ClCompile Include="11.数组.cpp" />
     <ClCompile Include="12函数.cpp" />
     <ClCompile Include="13.指针.cpp" />
+    <ClCompile Include="14.结构体.cpp" />
     <ClCompile Include="sum.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -1,3 +1,6 @@
 ﻿  13.指针.cpp
-C:\Users\chenhang\Desktop\code\03.C\exercise_hang_cpp\13.指针.cpp(6,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  14.结构体.cpp
+C:\Users\chenhang\Desktop\code\03.C\exercise_hang_cpp\14.结构体.cpp(11,31): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\chenhang\Desktop\code\03.C\exercise_hang_cpp\14.结构体.cpp(13,17): warning C4305: “=”: 从“double”到“float”截断
+  正在生成代码...
   c++_exercise.vcxproj -> C:\Users\chenhang\Desktop\code\03.C\exercise_hang_cpp\Debug\c++_exercise.exe
