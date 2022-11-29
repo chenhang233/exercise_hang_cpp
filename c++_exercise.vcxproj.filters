@@ -60,6 +60,9 @@
     <ClCompile Include="14.结构体.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="15结构体案例1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sum.h">
