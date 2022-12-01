@@ -42,7 +42,7 @@ void printInfo(struct Tea tArr[]) {
 	}
 }
 
-int main() {
+int main15() {
 	srand((unsigned int)time(NULL));
 	struct Tea teaArr[3] = {};
 	init(teaArr);
