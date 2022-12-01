@@ -143,6 +143,7 @@
     <ClCompile Include="14.结构体.cpp" />
     <ClCompile Include="15结构体案例1.cpp" />
     <ClCompile Include="16.案例2.cpp" />
+    <ClCompile Include="18.new开辟堆区内存.cpp" />
     <ClCompile Include="sum.cpp" />
   </ItemGroup>
   <ItemGroup>

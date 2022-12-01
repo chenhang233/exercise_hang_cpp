@@ -66,6 +66,9 @@
     <ClCompile Include="16.案例2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="18.new开辟堆区内存.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sum.h">

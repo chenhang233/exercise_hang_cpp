@@ -178,7 +178,7 @@ int select(int * p, admin * a) {
 
 }
 
-int main() {
+int main17() {
 	admin admin_1;
 	admin_1.PArr_size = 0;
 	int in;
